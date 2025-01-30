@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Financify-frontend
 # Financify-frontend
 # Assignment-frontend
+# Assignment-frontend
